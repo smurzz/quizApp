@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="levelone"> Choose the number that is bigger.\nThe questions can be repeated until you score 20 points.</string>
+    <string name="leveloneEnd">"Congratulations, the level is passed!\n
+        Did you know that 7 is considered as the luckiest number? There are 7 days in a week, 7 continents in the world, 7 colors of the rainbow, 7 musical notes, 7 days of creation and much more.
+        7 is also considered the most favorite number for people all over the world."</string>
+
+    <string name="leveltwo"> Choose the roman number that is bigger.\nThe questions can be repeated until you score 20 points.</string>
+    <string name="leveltwoEnd">"Congratulations, the level is passed!\n
+      Do you know that there is no zero in Roman numerals?"</string>
+
+    <string name="levelthree"> Which animal shows its tongue the most?\n
+        The questions can be repeated until you score 20 points.</string>
+    <string name="levelthreeEnd">"Congratulations, the level is passed!\n
+        do you know? that a woodpecker, when hitting a tree with its beak, retracts its tongue and wraps it around its brain to protect it."</string>
+
+    <string name="levelfour"> choose something edible\n
+        The questions can be repeated until you score 20 points.</string>
+    <string name="levelfourEnd">"Congratulations, the level is passed!\n
+        It is known that many crocodiles swallow stones. But not because they are edible for them. Stones help them to sink into the water faster and stay on the bottom."</string>
+
+    <string name="levelfive"> choose faster animal\n
+        The questions can be repeated until you score 20 points.</string>
+    <string name="levelfiveEnd">"Congratulations, the level is passed!\n
+        The fastest land animal in the world, a cheetah can reach 112km/h in just three seconds - that's faster than a sport car accelerators!"</string>
+
+    <string name="levelsix"> choose city with a larger population?\n
+        The questions can be repeated until you score 20 points.</string>
+    <string name="levelsixEnd">"Congratulations, you successfully finished the game! You have 120/120 points!\n
+        Do you know, than Tokyo is the most populated city in the world, with more than 38 million people"</string>
+
+
+</resources>

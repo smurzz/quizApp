@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sofya/Documents/Sofya/Studium/sem4/ma/ueb5/Quiz/app/src/main/res/drawable-v24/style_bnt_black60.xml" value="0.227" />
+        <entry key="..\:/Users/Sofya/Documents/Sofya/Studium/sem4/ma/ueb5/Quiz/app/src/main/res/drawable/button_gamelevels.xml" value="0.1465" />
+        <entry key="..\:/Users/Sofya/Documents/Sofya/Studium/sem4/ma/ueb5/Quiz/app/src/main/res/drawable/style_bnt_black95.xml" value="0.1" />
+        <entry key="..\:/Users/Sofya/Documents/Sofya/Studium/sem4/ma/ueb5/Quiz/app/src/main/res/drawable/style_btn_stroke_black95.xml" value="0.1" />
+        <entry key="..\:/Users/Sofya/Documents/Sofya/Studium/sem4/ma/ueb5/Quiz/app/src/main/res/drawable/style_img_universal.xml" value="0.1465" />
+        <entry key="..\:/Users/Sofya/Documents/Sofya/Studium/sem4/ma/ueb5/Quiz/app/src/main/res/layout-large/universal.xml" value="0.39087301587301587" />
+        <entry key="..\:/Users/Sofya/Documents/Sofya/Studium/sem4/ma/ueb5/Quiz/app/src/main/res/layout-normal/universal.xml" value="0.1" />
+        <entry key="..\:/Users/Sofya/Documents/Sofya/Studium/sem4/ma/ueb5/Quiz/app/src/main/res/layout/activity_main.xml" value="0.7462121212121212" />
+        <entry key="..\:/Users/Sofya/Documents/Sofya/Studium/sem4/ma/ueb5/Quiz/app/src/main/res/layout/dialogend.xml" value="0.8674242424242424" />
+        <entry key="..\:/Users/Sofya/Documents/Sofya/Studium/sem4/ma/ueb5/Quiz/app/src/main/res/layout/gamelevels.xml" value="0.8674242424242424" />
+        <entry key="..\:/Users/Sofya/Documents/Sofya/Studium/sem4/ma/ueb5/Quiz/app/src/main/res/layout/previewdialog.xml" value="0.7462121212121212" />
+        <entry key="..\:/Users/Sofya/Documents/Sofya/Studium/sem4/ma/ueb5/Quiz/app/src/main/res/layout/universal.xml" value="0.7462121212121212" />
+        <entry key="app/src/main/res/drawable-v24/style_bnt_black65.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/style_btn_stroke_black95_press_white.xml" value="0.173" />
+        <entry key="app/src/main/res/drawable/button_gamelevels.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/button_stroke_black95_press_white.xml" value="0.173" />
+        <entry key="app/src/main/res/drawable/button_stroke_white_press_blue.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/style_bnt_black95.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/style_btn_stroke_black95.xml" value="0.173" />
+        <entry key="app/src/main/res/drawable/style_btn_white.xml" value="0.1155" />
+        <entry key="app/src/main/res/drawable/style_btn_white_blue_press.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/style_img_universal.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/style_points.xml" value="0.1765" />
+        <entry key="app/src/main/res/drawable/style_points_green.xml" value="0.156" />
+        <entry key="app/src/main/res/layout-large/universal.xml" value="0.2753303964757709" />
+        <entry key="app/src/main/res/layout-normal/dialogend.xml" value="0.35912698412698413" />
+        <entry key="app/src/main/res/layout-normal/universal.xml" value="0.14412568306010928" />
+        <entry key="app/src/main/res/layout-small/universal.xml" value="1.0" />
+        <entry key="app/src/main/res/layout-xlarge/universal.xml" value="0.10072522159548751" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.10447137484329294" />
+        <entry key="app/src/main/res/layout/dialogend.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/gamelevels.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/gamelevels2.xml" value="0.10447137484329294" />
+        <entry key="app/src/main/res/layout/previewdialog.xml" value="0.75" />
+        <entry key="app/src/main/res/layout/styles.xml" value="0.13044579533941236" />
+        <entry key="app/src/main/res/layout/universal.xml" value="0.8503401360544217" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

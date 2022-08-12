@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lvl1text0">Zero</string>
+    <string name="lvl1text1">One</string>
+    <string name="lvl1text2">Two</string>
+    <string name="lvl1text3">Three</string>
+    <string name="lvl1text4">Four</string>
+    <string name="lvl1text5">Five</string>
+    <string name="lvl1text6">Six</string>
+    <string name="lvl1text7">Seven</string>
+    <string name="lvl1text8">Eight</string>
+    <string name="lvl1text9">Nine</string>
+
+
+    <string name="lvl2text1">I</string>
+    <string name="lvl2text2">II</string>
+    <string name="lvl2text3">III</string>
+    <string name="lvl2text4">IV</string>
+    <string name="lvl2text5">V</string>
+    <string name="lvl2text6">VI</string>
+    <string name="lvl2text7">VII</string>
+    <string name="lvl2text8">VIII</string>
+    <string name="lvl2text9">IX</string>
+    <string name="lvl2text10">X</string>
+
+
+
+    <string name="lvl3text1">rabbit</string>
+    <string name="lvl3text2">dog</string>
+    <string name="lvl3text3">weasel</string>
+    <string name="lvl3text4">red panda</string>
+    <string name="lvl3text5">monkey</string>
+    <string name="lvl3text6">sea-bear</string>
+    <string name="lvl3text7">monkey</string>
+    <string name="lvl3text8">bear</string>
+    <string name="lvl3text9">lemur</string>
+    <string name="lvl3text10">cat</string>
+    <string name="lvl3text11">rabbit</string>
+    <string name="lvl3text12">panda</string>
+    <string name="lvl3text13">fox</string>
+    <string name="lvl3text14">fox</string>
+    <string name="lvl3text15">horse</string>
+    <string name="lvl3text16">tiger</string>
+    <string name="lvl3text17">dog</string>
+    <string name="lvl3text18">calf</string>
+    <string name="lvl3text19">giraffe</string>
+    <string name="lvl3text20">lizard</string>
+    <string name="lvl3text21">bear</string>
+
+
+
+    <string name="lvl4text1">pear</string>
+    <string name="lvl4text2">clock</string>
+    <string name="lvl4text3">broccoli</string>
+    <string name="lvl4text4">carton</string>
+    <string name="lvl4text5">watermelon</string>
+    <string name="lvl4text6">pen</string>
+    <string name="lvl4text7">banana</string>
+    <string name="lvl4text8">spoon</string>
+    <string name="lvl4text9">avocado</string>
+    <string name="lvl4text10">basket-ball</string>
+    <string name="lvl4text11">strawberry</string>
+    <string name="lvl4text12">snicker</string>
+    <string name="lvl4text13">carrot</string>
+    <string name="lvl4text14">scarf</string>
+    <string name="lvl4text15">paprika</string>
+    <string name="lvl4text16">gavel</string>
+    <string name="lvl4text17">corn</string>
+    <string name="lvl4text18">door</string>
+    <string name="lvl4text19">apple</string>
+    <string name="lvl4text20">mouse</string>
+
+
+    <string name="lvl5text1">сheetah</string>
+    <string name="lvl5text2">antelope</string>
+    <string name="lvl5text3">jaguar</string>
+    <string name="lvl5text4">tiger</string>
+    <string name="lvl5text5">cougar</string>
+    <string name="lvl5text6">hare</string>
+    <string name="lvl5text7">elk</string>
+    <string name="lvl5text8">ostrich</string>
+    <string name="lvl5text9">camel</string>
+    <string name="lvl5text10">wolf</string>
+    <string name="lvl5text11">roe deer</string>
+    <string name="lvl5text12">lynx</string>
+    <string name="lvl5text13">bear</string>
+    <string name="lvl5text14">cat</string>
+    <string name="lvl5text15">giraffe</string>
+    <string name="lvl5text16">leo</string>
+    <string name="lvl5text17">gorilla</string>
+    <string name="lvl5text18">fox</string>
+    <string name="lvl5text19">wild boar</string>
+    <string name="lvl5text20">rhinoceros</string>
+    <string name="lvl5text21">hippopotamus</string>
+
+    <string name="lvl6text1">London</string>
+    <string name="lvl6text2">Berlin</string>
+    <string name="lvl6text3">Madrid</string>
+    <string name="lvl6text4">Rom</string>
+    <string name="lvl6text5">Paris</string>
+    <string name="lvl6text6">Vienna</string>
+    <string name="lvl6text7">Hamburg</string>
+    <string name="lvl6text8">Warsaw</string>
+    <string name="lvl6text9">Budapest</string>
+    <string name="lvl6text10">Barcelona</string>
+    <string name="lvl6text11">Munich</string>
+    <string name="lvl6text12">Sofia</string>
+    <string name="lvl6text13">Milan</string>
+    <string name="lvl6text14">Prague</string>
+    <string name="lvl6text15">Dublin</string>
+    <string name="lvl6text16">Birmingham</string>
+    <string name="lvl6text17">Cologne</string>
+    <string name="lvl6text18">Stockholm</string>
+    <string name="lvl6text19">Amsterdam</string>
+    <string name="lvl6text20">Oslo</string>
+    <string name="lvl6text21">Helsinki</string>
+
+</resources>
